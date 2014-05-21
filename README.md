@@ -36,9 +36,9 @@ These files specifications are given in the raw data set link above.
 
 the function will then generate an output file in with name and directory as per parameters above.
 
-This files structure is comma delimited with text qualifiers of ".  Columns are;
+This files structure is comma delimited with text qualifiers of ".  Columns and definitions are;
 
-  * rowID -> Row identifier
+ * rowID -> Row identifier
  * SubjectID -> Subject unique ID
  * ActivityLabel -> Activity Description
  * tBodyAcc_mean_X -> mean of all measures of tBodyAcc_mean_X for Subject and Activity
